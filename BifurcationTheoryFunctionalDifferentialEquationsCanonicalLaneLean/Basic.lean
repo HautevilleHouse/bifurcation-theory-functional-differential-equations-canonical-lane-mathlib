@@ -1,0 +1,2 @@
+import BifurcationTheoryFunctionalDifferentialEquationsCanonicalLaneLean.GateLemmas
+import BifurcationTheoryFunctionalDifferentialEquationsCanonicalLaneLean.FinalTheorem
